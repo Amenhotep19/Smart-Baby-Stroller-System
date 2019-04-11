@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="hint_phone_number">Enter Phone Number</string>
+    <string name="hint_verification_code">Verification Code</string>
+    <string name="start_phone_auth">Start</string>
+    <string name="verify_phone_auth">Verify</string>
+    <string name="resend_phone_auth">Resend</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="status_verification_failed">Verification failed</string>
+    <string name="status_verification_succeeded">Verification succeeded</string>
+    <string name="status_sign_in_failed">Sign-in failed</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="instant_validation">(instant validation)</string>
+    <string name="signed_in">Signed In</string>
+    <string name="status_code_sent">Code Sent</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="btn_back">
+   <string name="phone_title_text">Phone Number</string>
+
+<![CDATA[
+<< Back
+]]>
+</string>
+    <string name="title_activity_naviagtion">Naviagtion</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

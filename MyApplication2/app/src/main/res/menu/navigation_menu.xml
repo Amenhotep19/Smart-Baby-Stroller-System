@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Profile"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="My Profile"/>
+
+    <item android:id="@+id/EditProfile"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="Edit Profile"/>
+
+    <item android:id="@+id/weather"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"
+        android:title="Location"/>
+
+
+    <item android:id="@+id/weather2"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"
+        android:title="Weather"/>
+
+    <item android:id="@+id/logout"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"
+        android:title="Logout"/>
+
+
+
+
+</menu>
